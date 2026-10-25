@@ -1,0 +1,11 @@
+# Install torch 2.4.1 and a matching torch-scatter build separately.
+# Verified environment: Python 3.8.19, CPU; see README.md.
+numpy==1.24.4
+scipy==1.10.1
+scikit-learn==1.3.2
+pandas==1.5.3
+dill==0.3.9
+torch-geometric==2.6.1
+ogb==1.3.6
+rdkit==2024.3.5
+networkx==2.8.8
